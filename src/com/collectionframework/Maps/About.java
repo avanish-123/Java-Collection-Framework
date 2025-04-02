@@ -8,7 +8,7 @@ public class About {
         /*
             Map
             Hashmap(LinkedHashMap, weakHashMap, IdentityHashMap)
-            SortedMap(TreeMap, NavigableMap)
+            SortedMap(TreeMap, NavigableMap(Interface))
             ConcurrentMap(ConcurrentHashMap, ConcurrentSkipListMap)
 
 
